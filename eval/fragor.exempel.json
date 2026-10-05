@@ -1,0 +1,4 @@
+[
+  {"fraga": "Vilket patentnummer har den svenska ansökan?", "svar": ["SE 1234567-8"], "kalla": ["bolag-a/context.md"]},
+  {"fraga": "Vilka AI-leverantörer får agenterna använda?", "svar": ["Tillåtna leverantörer"], "kalla": ["_gemensamt/regler.md"]}
+]
